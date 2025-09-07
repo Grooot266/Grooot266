@@ -36,15 +36,15 @@
 - Built ML models to analyze health data and deployed them with Flask  
 - Published related **Research Paper at ICET 2024**  
 
-🔹 **AI Voice Assistant**  
+🔹 [**AI Voice Assistant**](https://github.com/Grooot266/AI-voice-assistant-project)
 *Python, Tkinter, Speech Recognition*  
 - Built a desktop assistant to execute commands and respond to voice queries  
 
-🔹 **Banking Application (Android)**  
+🔹 [**Banking Application (Android)**](https://github.com/Grooot266/BCA-Final-Year-Core-Project-)
 *Java, SQLite, Android Studio*  
 - Peer-to-peer transaction app with user authentication and data storage  
 
-🔹 **IPL Runs Predictor**  
+🔹 [**IPL Runs Predictor**](https://github.com/Grooot266/Machine-learning-mini-project-) 
 *Python, Scikit-learn*  
 - Machine learning mini-project using **linear regression** to predict IPL scores  
 
