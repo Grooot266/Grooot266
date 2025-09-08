@@ -1,9 +1,6 @@
 <!-- Profile README for Grooot266 -->
 
 <h1 align="center">Hi 👋, I'm Prathmesh Patil</h1>
-<h3 align="center">Aspiring Data Analytics Engineer | Python | SQL | Power BI | BigQuery | Cloud & Fullstack Development</h3>
-
----
 
 ## 🚀 About Me
 - 🎓 MCA Graduate from **Bharati Vidyapeeth’s Institute of Management & IT, Navi Mumbai**
